@@ -1,2 +1,2 @@
-## ICPC-Practice
-My old ICPC practice repository from 2021...
+## ICPC-Training
+:sparkles: the root of magic :sparkles:
